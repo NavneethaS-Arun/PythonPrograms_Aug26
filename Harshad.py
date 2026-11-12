@@ -1,0 +1,1 @@
+print("Prime Harshad Number")
